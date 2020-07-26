@@ -15,7 +15,7 @@ Follow up:
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 
-2) Rotate Array 
+2) Rotate Array (from GFG)
 
 Given an unsorted array arr[] of size N, rotate it by D elements (clockwise). 
 
